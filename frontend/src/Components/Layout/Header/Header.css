@@ -1,0 +1,11 @@
+.speedDial {
+  position: fixed;
+  top: 34px;
+  right: 20px;
+}
+
+.speedDialIcon {
+  border-radius: 100%;
+  width: 100%;
+  height: 100%;
+}
